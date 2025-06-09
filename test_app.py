@@ -8,4 +8,4 @@ def test_multiplicacao_positivos():
     assert multiplicacao(2, 3) == 6
 
 def test_concatena_strings():
-    assert concatena("teste", "concatenacao") == "foobar"
+    assert concatena("teste", "concatenacao") == "testeconcatenacao"
